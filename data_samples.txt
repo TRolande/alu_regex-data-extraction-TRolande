@@ -1,0 +1,10 @@
+(555) 867-5309, 555-867-5309, 555.867.5309
+another.user@domain.com, test123@sub.mail.net
+$0.99, $10,000.00
+<div>Sample Text</div><a href="page.html">Link</a>
+http://testsite.com/page?id=42 or https://secure.site.gov
+2025-05-20, 20/05/2025, May 20, 2025
+123 Main St., Springfield, IL 62704
++44 20 7946 0958, +1-800-555-0199
+#FF5733, rgb(255,87,51), hsl(11,100%,60%)
+Jane Doe, John Smith, Dr. Emily Zhang
